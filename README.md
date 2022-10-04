@@ -1,1 +1,2 @@
-# Xay-dung-blog-don-gian-su-dung-ExpressJS-voi-HBS-template
+### npm install express 
+### npm install hbs 
